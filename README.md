@@ -4,12 +4,6 @@
 
 You are well on your way to becoming a programmer and Excel master! This projeact use VBA scripting to analyze real stock market data.
 
-### Files
-
-* [Test Data](Resources/alphabetical_testing.xlsx) - Used this while developing the scripts.
-
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Ran the scripts on this data to generate the final report.
-
 ### Stock market analyst
 
 ![stock Market](Images/stockmarket.jpg)
